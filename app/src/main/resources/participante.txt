@@ -1,0 +1,17 @@
+[
+   {
+      "nomeCompleto":"Erick Santos",
+      "cpf":"28071506087",
+      "dataNascimento":"08/09/1993",
+      "genero":"Não Informado",
+      "rua":"Rua Luiz Antônio de Oliveira Alves",
+      "numero":242,
+      "bairro":"Vila Nova Mazzei",
+      "complemento":"Prox ao lado da rua",
+      "cidade":"São Paulo",
+      "estado":"SP",
+      "cep":"02314050",
+      "telefone":999999999,
+      "email":"jeanluc1701@filevino.com"
+   }
+]
